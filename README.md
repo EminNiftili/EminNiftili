@@ -12,8 +12,6 @@ As a software developer, I dedicated my first two years to working on software<b
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EminNiftili&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EminNiftili&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EminNiftili&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ---
